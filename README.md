@@ -1,5 +1,9 @@
 # FireSense – Predicting Wildfire Risks with Sensor Data  
 
+## **Homework Assignments**
+- Week 1: [Clustering](https://colab.research.google.com/drive/1QuO7C2bt-7aGbjcZq2EQq09zc_87ZxTz?usp=sharing)
+- Week 2: [Fractal Clustering](https://colab.research.google.com/drive/1G5q0ogCHYoxLIJ4jxZc7jGOZWbpMhwTE?usp=sharing)
+
 ## **Project Statement**  
 Wildfires have devastating environmental, economic, and social impacts, causing widespread destruction and loss of life. Traditional fire detection methods rely on satellite imagery and human monitoring, leading to delays in response times. FireSense aims to develop a **real-time, sensor-based predictive model** that enhances early detection and mitigation efforts, significantly reducing wildfire risks.
 

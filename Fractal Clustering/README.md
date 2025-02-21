@@ -94,3 +94,15 @@ To determine the **golden cluster** (i.e., the optimal segmentation of wildfire-
    - **Goal:** Ensure the **most severe fire zones** are well-grouped.
 
 By combining these **three** criteria, we define the most **meaningful and actionable clusters** for wildfire risk mitigation.
+
+
+Golden Cluster:
+The Golden Cluster represents the most fire-prone and high-severity wildfire zone based on Fire Risk Score (FRS) and Fire Severity Score (FSS).
+
+   The Golden Cluster—Sub-Cluster 0
+   ✔ FRS = 0.9839 → Highest Fire Risk Score
+   ✔ FSS = 968,758 acres → Severe burned area
+   ✔ Interpretation → Most fire-prone region, highest ignition probability, high spread potential
+   This means:
+   Sub-Cluster 0 is the most wildfire-prone and should be the top priority for risk mitigation.
+

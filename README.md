@@ -58,6 +58,4 @@ Wildfires cause **massive economic and environmental damage** due to **delayed d
 📊 **Features:** Meteorological data such as **temperature, humidity, wind speed
 
 
-## **Fractal Clustering **  
-
 

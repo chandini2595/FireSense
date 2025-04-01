@@ -55,7 +55,7 @@ Wildfires cause **massive economic and environmental damage** due to **delayed d
 
 ## **Datasets Used**  
 **[Forest Fires Dataset](https://archive.ics.uci.edu/dataset/162/forest+fires)**  
-📊 **Features:** Meteorological data such as **temperature, humidity, wind speed
+📊 **Features:** Meteorological data such as temperature, humidity, wind speed
 
 
 
